@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Mikayel Badalyan
 
-<!--
-**mikbadalyan/mikbadalyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a computer scientist and entrepreneur passionate about building smart, automated systems that bridge technology and real-world impact.  
+Currently studying software engineering at the French University in Armenia, I combine technical depth with a business-driven mindset.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I Work On
+- **Resora Systems** – Comprehensive Resort Management SaaS integrating automation, data intelligence, and smart pricing.  
+- Experimenting with cloud automation, embedded systems, and data-driven applications.  
+- Exploring the intersection of technology, design, and scalable business models.
+
+---
+
+### 🧠 Technical Focus
+**Languages:** C, C++, C#, Python, SQL  
+**Technologies:** Azure, AWS, Web Development, Embedded Systems, ML Foundations  
+**Interests:** Automation, IoT, Cloud Systems, Human-centered Design
+
+---
+
+### 🌱 Currently Learning
+Advanced Machine Learning, Cloud Architecture, and Smart Automation Systems.
+
+---
+
+### 💡 Philosophy
+Technology should simplify complex systems and create measurable real-world value.
+
+---
+
+### 📫 Connect
+[LinkedIn](https://linkedin.com/in/mikayelbadalyan) • [Instagram](https://instagram.com/mikayelbadalyan) • [Twitter](https://twitter.com/mikayelbadalyan)
