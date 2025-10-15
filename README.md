@@ -1,33 +1,43 @@
 # 👋 Hi, I'm Mikayel Badalyan
 
-I'm a computer scientist and entrepreneur passionate about building smart, automated systems that bridge technology and real-world impact.  
-Currently studying software engineering at the French University in Armenia, I combine technical depth with a business-driven mindset.
+I’m a **Computer Science student** at the **French University in Armenia**, specializing in **AI, Machine Learning, and Back-End Development**.  
+I build systems that merge automation, intelligence, and practical impact — from cloud-based applications to data-driven platforms.
 
 ---
 
-### 🚀 What I Work On
-- **Resora Systems** – Comprehensive Resort Management SaaS integrating automation, data intelligence, and smart pricing.  
-- Experimenting with cloud automation, embedded systems, and data-driven applications.  
-- Exploring the intersection of technology, design, and scalable business models.
+### 💻 Technical Focus
+**Languages:** C, C++, C#, Python, SQL, Java  
+**Frameworks & Tools:** .NET, ASP.NET, Blazor, Entity Framework, WPF, Unity, MySQL  
+**Cloud & DevOps:** Azure, AWS, CI/CD, Linux, Shell scripting  
+**Data & ML:** Scikit-learn, Hugging Face, Data Analysis, Probability & Statistics  
 
 ---
 
-### 🧠 Technical Focus
-**Languages:** C, C++, C#, Python, SQL  
-**Technologies:** Azure, AWS, Web Development, Embedded Systems, ML Foundations  
-**Interests:** Automation, IoT, Cloud Systems, Human-centered Design
+### 🚀 Projects
+- **Resora Systems** – Smart resort management SaaS integrating automation and data-driven pricing.  
+- **EduVerse** – Academic platform connecting students and professors for real-time course tracking and progress analytics.  
+- **ParkIn** – Real-time parking management system using C# and .NET for efficient space allocation.  
+- **AI for Good Hackathon Project** – AI assistant offering business insights and resort analytics for Armenian tourism.
 
 ---
 
-### 🌱 Currently Learning
-Advanced Machine Learning, Cloud Architecture, and Smart Automation Systems.
+### 🧭 Leadership & Experience
+- **Group Lead, Seaside Startup Summit 2025** – Managed 27 volunteers and organized mentorship sessions for entrepreneurs.  
+- **Representative, Digitec Expo 2023** – Promoted digital career development and engaged with tech professionals.  
+- Experienced working in multicultural teams with bilingual French-English collaboration.
+
+---
+
+### 🌍 Languages
+Armenian (Native) • English (C1, FCE Certified) • French (B2, DELF Certified)
 
 ---
 
 ### 💡 Philosophy
-Technology should simplify complex systems and create measurable real-world value.
+Technology should automate complexity, empower people, and deliver measurable value.
 
 ---
 
 ### 📫 Connect
-[LinkedIn](https://linkedin.com/in/mikayelbadalyan) • [Instagram](https://instagram.com/mikayelbadalyan) • [Twitter](https://twitter.com/mikayelbadalyan)
+📧 **contact@mikayelbadalyan.com**  
+🔗 [LinkedIn](https://linkedin.com/in/mikayelbadalyan) | [GitHub](https://github.com/mikbadalyan)
